@@ -1,0 +1,74 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://e1S7PgAdKFCr4sq:JT1TpvuYKNMoD3m@localhost:52870/storage/emulated/0/my%20portfolio/prasitha%20portfolio%20.html
+Subject: prasitha Portfolio
+Date: Sat, 13 Sep 2025 10:59:52 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Vq59oRvcLOwez9DnXG3mgoCpNAJoQcWUwwzzZ9GhHI----"
+
+
+------MultipartBoundary--Vq59oRvcLOwez9DnXG3mgoCpNAJoQcWUwwzzZ9GhHI----
+Content-Type: text/html
+Content-ID: <frame-3E33E41654B9ED428914D2AF26D842C8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://e1S7PgAdKFCr4sq:JT1TpvuYKNMoD3m@localhost:52870/storage/emulated/0/my%20portfolio/prasitha%20portfolio%20.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-23fb9e5c-7592-4410-b1be-63b865432d26@mhtml.blink" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>prasitha Portfolio</title>
+
+</head>
+<body>
+
+<header>
+    <img src="http://e1S7PgAdKFCr4sq:JT1TpvuYKNMoD3m@localhost:52870/storage/emulated/0/my%20portfolio/IMG(0).jpg" alt="Profile Photo">
+    <h1>prasitha Portfolio</h1>
+</header>
+
+<nav>
+    <button>Home</button>
+    <button>About</button>
+    <button>Education</button>
+    <button>Extra Curricular</button>
+    <button>Projects</button>
+    <button>Bio Data</button>
+    <button>Contact</button>
+</nav>
+
+<div id="content"></div>
+
+
+
+
+</body></html>
+------MultipartBoundary--Vq59oRvcLOwez9DnXG3mgoCpNAJoQcWUwwzzZ9GhHI----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-23fb9e5c-7592-4410-b1be-63b865432d26@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background: rgb(244, 244, 244); }
+
+header { background: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 15px; text-align: center; }
+
+header img { width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px; border: 3px solid rgb(255, 255, 255); }
+
+nav { display: flex; flex-wrap: wrap; justify-content: center; background: rgb(68, 68, 68); }
+
+nav button { background: rgb(68, 68, 68); color: rgb(255, 255, 255); border: none; padding: 10px 20px; cursor: pointer; font-size: 16px; }
+
+nav button:hover, nav button.active { background: rgb(34, 34, 34); border-bottom: 2px solid rgb(255, 152, 0); }
+
+#content { max-width: 900px; margin: 20px auto; background: rgb(255, 255, 255); padding: 20px; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; opacity: 0; transition: opacity 0.5s ease-in-out; }
+
+#content.show { opacity: 1; }
+
+h2 { color: rgb(51, 51, 51); }
+
+.project, .edu, .activity { margin-bottom: 10px; padding: 10px; background: rgb(249, 249, 249); border-left: 4px solid rgb(51, 51, 51); }
+
+.about-photo { width: 150px; height: 150px; border-radius: 50%; margin-bottom: 15px; border: 3px solid rgb(51, 51, 51); }
+------MultipartBoundary--Vq59oRvcLOwez9DnXG3mgoCpNAJoQcWUwwzzZ9GhHI------
